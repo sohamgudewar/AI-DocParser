@@ -1,0 +1,81 @@
+{
+  "zones": [
+    {
+      "region": "Vidarbha",
+      "lat_range": [19.0, 21.0],
+      "lon_range": [76.0, 79.0],
+      "crop": "cotton",
+      "typical_variety": "Bt Cotton",
+      "growing_season": "June-October",
+      "emoji": "\ud83e\udd66"
+    },
+    {
+      "region": "Western Maharashtra",
+      "lat_range": [17.5, 19.0],
+      "lon_range": [73.0, 74.5],
+      "crop": "sugarcane",
+      "typical_variety": "Co 86032",
+      "growing_season": "November-March",
+      "emoji": "\ud83c\udf3d"
+    },
+    {
+      "region": "Marathwada",
+      "lat_range": [17.0, 19.0],
+      "lon_range": [74.0, 76.0],
+      "crop": "soybean",
+      "typical_variety": "JS 97-52",
+      "growing_season": "June-September",
+      "emoji": "\ud83e\udedc"
+    },
+    {
+      "region": "Nashik",
+      "lat_range": [18.5, 20.5],
+      "lon_range": [73.0, 74.5],
+      "crop": "onion",
+      "typical_variety": "N-53",
+      "growing_season": "October-March",
+      "emoji": "\ud83e\uddc5"
+    },
+    {
+      "region": "Konkan",
+      "lat_range": [15.5, 18.5],
+      "lon_range": [72.5, 74.0],
+      "crop": "rice",
+      "typical_variety": "Karjat-2",
+      "growing_season": "June-October",
+      "emoji": "\ud83c\udf5a"
+    },
+    {
+      "region": "Satara-Kolhapur",
+      "lat_range": [16.5, 18.0],
+      "lon_range": [73.5, 74.5],
+      "crop": "grapes",
+      "typical_variety": "Thompson Seedless",
+      "growing_season": "February-May",
+      "emoji": "\ud83c\udf47"
+    }
+  ],
+  "demo_locations": {
+    "vidarbha_cotton": {
+      "name": "Cotton Farm - Vidarbha",
+      "lat": 20.92,
+      "lon": 77.72,
+      "crop": "cotton",
+      "description": "Rain-fed cotton farm in Wardha district"
+    },
+    "nashik_sugarcane": {
+      "name": "Sugarcane Fields - Nashik",
+      "lat": 19.85,
+      "lon": 73.75,
+      "crop": "onion",
+      "description": "Irrigated onion farm in Nashik district"
+    },
+    "pune_verification": {
+      "name": "Land Document - Pune",
+      "lat": 18.52,
+      "lon": 73.85,
+      "crop": "sugarcane",
+      "description": "Land record verification for Sangamner taluka"
+    }
+  }
+}

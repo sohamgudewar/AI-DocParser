@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+krishinetra_venv/
+.env
+logs/
+*.log
+.pytest_cache/
+.git/
+.gitignore
+README.md
+production_roadmap.md
